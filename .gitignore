@@ -10,7 +10,6 @@
  # ----[ Visual Studio / MonoDevelop generated ]------- #
  ExportedObj/
  .consulo/
- *.csproj
  *.unityproj
  *.sln
  *.suo
